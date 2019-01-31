@@ -3,7 +3,7 @@
   <component name="GitSharedSettings">
     <option name="FORCE_PUSH_PROHIBITED_PATTERNS">
       <list>
-        <option value="https://github.com/sungrean/dailyfresh" />
+        <option value="git://github.com/sungrean/dailyfresh" />
       </list>
     </option>
   </component>
